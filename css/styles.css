@@ -1,0 +1,44 @@
+body {
+    background-color: tan;
+}
+
+.col-centered{
+    margin: 0 auto;
+    text-align: center;
+}
+.title{
+    color:slateblue;
+}
+.description{
+    font-size: 0.9em;
+    font-weight: bold;
+
+}
+.lifespan{
+    position:relative;
+    bottom:10px;
+    font-weight: bold;
+    font-size: 0.75em;
+}
+.list-head{
+    font-weight: bold;
+    position: relative;
+    bottom: 10px;
+}
+.list{
+    font-size: 0.9em;
+    margin:0 auto;
+}
+.quote{
+    position:relative;
+    left: 30px;
+}
+.quote-attribute{
+    position:relative;
+    left:30px;
+}
+.wiki{
+    position: relative;
+    left: 10px;
+    color: teal;
+}
